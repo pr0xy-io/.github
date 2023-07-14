@@ -10,7 +10,7 @@ We offer extensive and innovative Smart Contract development; with a full suite 
 
 ## Repositories
 
-pr0xy currently has over 60 repositories. All repositories are private and potentially available for implementation through contact with [team@pr0xy.io](mailto:team@pr0xy.io). Public repositories coming soon.
+pr0xy currently has over 60 repositories. Most repositories are private and potentially available for implementation through contact with [team@pr0xy.io](mailto:team@pr0xy.io).
 
 ---
 
