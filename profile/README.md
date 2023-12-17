@@ -25,6 +25,14 @@ Please see the following directory of links associated with pr0xy:
 
 ---
 
+## Additional Organizations
+
+Check out some of our other organizations, mainly projects we've assisted or are actively working with:
+
+- [madrabbits](https://github.com/mad-rabbits-riot-club): MRRC, take a trip down the rabbit hole.
+
+---
+
 ### <sub>_**Disclaimer**_</sub>
 
 <sub>_pr0xy is not liable for the performance of any project, and solely facilitates the pre- and during-launch time periods. Unless specified, pr0xy does not support projects post-mint, and is often off-boarded for an in-house team funded by the project's initial minting raise. Occasionally, pr0xy may provide periodic updates on the existing tech-stack such as website or Discord bots until the project has taken on a full-time development team. All code developed by pr0xy is owned by pr0xy unless stated prior. pr0xy uses a number of proprietary code snippets, packages, and tools to develop its programs and scripts._</sub>
