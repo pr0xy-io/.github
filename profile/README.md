@@ -19,8 +19,6 @@ Please see the following directory of links associated with pr0xy:
 - [pr0xy.io](https://pr0xy.io): pr0xy's homepage outlining offerings, team, and portfolio
 - [Verified OpenSea](https://opensea.io/TeamPr0xy): Verified OpenSea account page with several created collections
 - [OpenSea](https://opensea.io/pr0xy-io): pr0xy 2.0 page developing the next generation of pr0xy projects
-- [pr0xy Bot](https://bot.pr0xy.io): pr0xy's public Discord bot and dashboard
-- [Threads](https://www.threads.net/@pr0xy_io): pr0xy's Threads social media account
 - [Twitter](https://twitter.com/pr0xy_io): pr0xy's Twitter social media account
 
 ---
