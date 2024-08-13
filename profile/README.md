@@ -1,6 +1,6 @@
 # 👋 Hello, We're pr0xy
 
-**Our website is currently experiencing issues due to a namespace transfer. Please email us at [gimpey@pr0xy.io](mailto:gimpey@pr0xy.io) for all business inquiries.**
+**Our website is currently under construction. Please email us at [gimpey@pr0xy.io](mailto:gimpey@pr0xy.io) for all business inquiries.**
 
 ![pr0xy Banner](https://cdn.pr0xy.io/branding/pr0xy-github-banner.png)
 
